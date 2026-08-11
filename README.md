@@ -4,7 +4,7 @@
 
 This repository contains source code for the Elite Universe Editor on the Commodore 64. You can build it using `./build.sh`.
 
-The Elite Universe Editor allows you to create your own universes in classic BBC Micro and Commodore 64 Elite. For more information, see the [bbcelite.com website](https://elite.bbcelite.com/hacks/elite_universe_editor.html).
+The Elite Universe Editor allows you to create your own universes in classic BBC Micro and Commodore 64 Elite. For more information, see the [bbcelite.com website](https://elite.bbcelite.com/hacks/elite_universe_editor/).
 
 This repository contains the Universe Editor code as a submodule:
 
