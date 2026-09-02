@@ -33,6 +33,8 @@
  _MASTER_VERSION = FALSE
  _C64_VERSION    = TRUE
 
+ GUARD $CE00            \ Guard against assembling over the zero page swap space
+
  INCLUDE "../../elite-universe-editor-library/main-sources/elite-universe-editor-variables.asm"
 
 ; ******************************************************************************
